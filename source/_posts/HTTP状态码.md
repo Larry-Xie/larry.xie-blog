@@ -5,8 +5,6 @@ categories: Learning
 tags: [ HTTP, Chinese ]
 ---
 
-# HTTP状态码
-
 本文转载自[Wiki](https://zh.wikipedia.org/wiki/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
 
 HTTP状态码（HTTP Status Code）是用以表示网页服务器HTTP响应状态的3位数字代码。它由 RFC 2616 规范定义的， 所有状态码的第一个数字代表了响应的五种状态之一。
