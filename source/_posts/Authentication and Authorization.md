@@ -83,4 +83,4 @@ An SSO use case might look like this: Alice is a manager at Acme Corp. She acces
 
 These three options are summarized in the table.
 
-![](../assets/authentication.png)
+![](/assets/authentication.png)
